@@ -36,7 +36,7 @@ Write some abstraction routines into av.js for talking to the videos as if they 
 
 W.r.t. the above, I'd like to be able to use the Flash player (if only for test purposes) even if it's not needed, which may make the previous item harder. I guess it's better to expose a constant API than be able to perform this kind of dirty trick.
 
-There's more information in the two blog posts I wrote about this "How to use HTML5 <video> tags everywhere and have them Just Work™" and "How to use HTML5 Video and Audio Tags Everywhere". If you have comments, questions, or suggestions please contact me at tonio at loewald dot com.
+There's more information in the two blog posts I wrote about this "How to use HTML5 &lt;video&gt; tags everywhere and have them Just Work&trade;" and "How to use HTML5 Video and Audio Tags Everywhere". If you have comments, questions, or suggestions please contact me at tonio at loewald dot com.
 
 <script src="jquery.js"></script>
 <script src="av.js"></script>
