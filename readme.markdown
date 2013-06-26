@@ -19,7 +19,7 @@ Audio embedded in an audio tag
 
 <audio src="media/speeder.mp3" width="240" height="16" loop="true" autoplay="false" controls="true">
 
-Click <button onclick=""av.replace_html5_media_tags();">Test Flash Switch</button> to swap in the Flash player for all <audio> and <video> elements (this lets me test it all works without launching a crippled web browser).
+Click <button onclick="av.replace_html5_media_tags();">Test Flash Switch</button> to swap in the Flash player for all &lt;audio&gt; and &lt;video&gt; elements (this lets me test it all works without launching a crippled web browser).
 
 Notes
 -----
